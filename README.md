@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Samuel
+- 👀 I’m interested in Math
+- 🌱 I’m currently learning Machine Learning and AI
+- 📫 How to reach me: al.2312.samuelsantiago@gmail.com
+- 😄 Pronouns: he / his
+- ⚡ Fun fact: there are more planes at sea than ships in the sky
