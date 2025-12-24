@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🥇 I participate in math olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Get into MIT and start my tech startup<br>🎲 Fun fact: There are more planes at sea than ships in the sky</p>
+<p align="left">🥇 I participate in math and coding olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Get into MIT and start my AI startup<br>
 
 ###
 
