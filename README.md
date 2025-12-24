@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🥇 I participate in math and coding olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Get into MIT and start my AI startup<br>
+<p align="left">🥇 I participate in math olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Get into MIT and start my AI startup<br>🐵 Feel free to contact me</p>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
