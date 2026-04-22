@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🥇 I participate in math and coding olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Get into MIT and start my AI startup<br>🐵 Feel free to contact me</p>
+<p align="left">🥇 I participate in math and physics olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Start my AI startup<br>🐵 Feel free to contact me</p>
 
 ###
 
