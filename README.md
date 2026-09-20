@@ -1,33 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+High school student building software at the intersection of mathematics, physics and AI.
 
-###
+### Selected projects
 
-<p align="left">My name is Samuel and I'm a high school student, from Brazil.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🥇 I participate in math and physics olympiads in Brazil and around<br>🤖 I'm currently teaching myself Machine Learning and AI<br>🎯 Goals: Start my AI startup<br>🐵 Feel free to contact me</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+- **[GeoGebra Copilot](https://github.com/s4m256/Geogebra-Copilot)** — Validates AI-generated semantic geometry against typed schemas, then deterministically compiles it into GeoGebra constructions; an [extended branch](https://github.com/s4m256/Geogebra-Copilot/tree/docs/semantic-architecture) adds dependency checks and tests.
+- **[PhoReal](https://github.com/s4m256/phoreal)** — A physics olympiad training system with structured problem ingestion, corpus integrity checks, and persistent attempts and timing per item. [Browse problems](https://treino-fisica-xy-fabiano.al-2312-samuelsantia.chatgpt.site/problemas).
+- **[MathShield](https://github.com/s4m256/math-shield)** — A Chrome extension that protects mathematical notation during page translation and normalizes recognized Cyrillic units inside LaTeX.
+- **[Math Arena](https://github.com/s4m256/Math-Arena)** — A proof-based contest platform implementing timed PDF submissions, manual grading, standings and a pairwise Elo-style rating calculation. [Preview](https://matharena-beta.vercel.app).
+- **[Projeto Pitagóricos](https://github.com/s4m256/projeto-pitagoricos-site)** — Educational website with draft-to-published materials, user progress, database access policies and expiring file links. [Website](https://www.pitagoricos.com.br).
+- **[TabuLab](https://github.com/s4m256/TabuLab)** — An interactive board for exploring olympiad configurations by drawing pieces, annotating cells and undoing moves.
