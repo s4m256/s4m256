@@ -5,7 +5,7 @@ Recommendations based on the source audit, 2026-09-19. No repository visibility 
 | Pin order | Repository | Description | Homepage | Topics |
 | --- | --- | --- | --- | --- |
 | 1 | Geogebra-Copilot | Natural-language geometry compiled from typed semantic objects into GeoGebra commands. | Leave blank until live generation is repaired; preview currently returns a missing-key error. | geometry, geogebra, compilers, typescript, artificial-intelligence |
-| 2 | phoreal | Physics olympiad training with structured problem ingestion, corpus validation and per-item timing. | https://treino-fisica-xy-fabiano.al-2312-samuelsantia.chatgpt.site/problemas | physics, physics-olympiad, data-validation, sqlite, typescript |
+| 2 | phoreal | Physics olympiad training with structured problem ingestion, corpus validation and per-item timing. | https://phoreal.s4m256.workers.dev/problemas#taiwan | physics, physics-olympiad, data-validation, sqlite, typescript |
 | 3 | math-shield | Chrome extension protecting MathJax notation during translation and normalizing recognized LaTeX units. | https://s4m256.github.io/math-shield/ (documentation page, not an interactive demo) | chrome-extension, mathjax, latex, mathematical-notation, javascript |
 | 4 | Math-Arena | Proof-based math contests with timed PDF submissions, manual grading, standings and rating calculations. | https://matharena-beta.vercel.app | mathematics, math-olympiad, nextjs, supabase, typescript |
 | 5 | projeto-pitagoricos-site | Educational website with study materials, individual progress and controlled content publication. | https://www.pitagoricos.com.br (public homepage verified) | education, mathematics, nextjs, supabase, row-level-security |
