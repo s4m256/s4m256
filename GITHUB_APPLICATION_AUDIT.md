@@ -1,5 +1,33 @@
 # GitHub presentation audit
 
+## Current follow-up — 2026-09-20
+
+This section supersedes older deployment and pin recommendations below. Preserve the earlier source audit as evidence, not as current site status.
+
+| Repository | Decision | Verified improvement / strongest defensible claim | Remaining boundary |
+| --- | --- | --- | --- |
+| Geogebra-Copilot | FEATURE #1 | Public app compiles a semantic triangle with altitude foot and orthocenter; native toolbar retained. Bridge regression tests cover preserving dependency-based intersections and rejecting an invalid name-inferred fallback. | Public example is fixed input, not live AI generation. Stronger `test` backend integration remains separate. |
+| phoreal | FEATURE #2 | Restored 164 original XY statements and 164 translations from checked-in SQL into D1; 165 metadata entries. Source-to-SQL restoration is reproducible and checks counts in SQLite before upload. | One source statement requires authentication; translation correctness is not certified. Personal features disabled on public Worker. |
+| math-shield | FEATURE #3 | Public editable fixture invokes real content.js transformations; unchanged-control example checked. Fixed observer initialization on already-translated pages; two regression cases pass. | Selected Cyrillic units and MathJax v2, not universal language/engine coverage. |
+| nlmmr/pholab | FEATURE #4, contributor | Public catalog opens the interactive IPhO 2024 E2 optics bench; source contains phase/diffraction models, state reducer and measurement UI. s4m256-authored implementation commits are public. | Collaborative repository. Do not claim sole authorship, universal realism or the README's fixed 153-test badge: the current runner hardcodes another developer's local directory. |
+| Math-Arena | FEATURE #5 | Existing source audit retained; corrected About metadata and preview URL. | Production authentication/storage workflow still not established by the prior audit. |
+| projeto-pitagoricos-site | FEATURE #6 | Existing public site and source audit retained; corrected canonical homepage and description. | Organizational impact is not individual impact. |
+| TabuLab / Julia_Fractals | KEEP, unpinned | Added accurate discoverable descriptions and topics. | No extra engineering spent on secondary demos. |
+
+### Follow-up claims ledger
+
+- **VERIFIED:** PhoReal D1 query returns 165 index records, 164 originals, 164 translations; XY T5 rendered publicly with mathematics and items. Build, lint, 36 main tests and 5 hint tests passed. Forged identity headers still return `canEdit: false` and `user: null` after deployment.
+- **VERIFIED:** GeoGebra main build/lint and two bridge regression tests pass. Public example uses the actual compiler and no provider secret. Pages workflow repeats test/build/lint.
+- **VERIFIED:** MathShield's three pure transformation examples and two observer tests pass; public editable demo renders expected repairs and preserves an unchanged formula.
+- **VERIFIED:** PhOLab is collaborative, with s4m256-authored commits; public catalog and optics bench load. See [implementation contribution](https://github.com/nlmmr/pholab/commit/fac6024fe8df012a8d15e0eb9ce78e50a1f6447b).
+- **PARTIAL:** Math Arena's end-to-end service configuration, full PhOLab experiment accuracy, extension behavior across arbitrary translated sites, all corpus translations.
+- **DO NOT CLAIM:** User/adoption counts, measured educational impact, sole ownership of shared work, public live AI generation, or the inaccessible XY statement.
+
+### Decisions applied
+
+Rebuilt the profile as a concise six-project table with direct evidence links; kept established projects instead of adding a new one. Updated owned-repository metadata. Archived six earlier learning repositories reversibly: 3D_viewer, Bayes_Akinator, Grid_Games, Jogo-da-Forca, Prophet_Orpheus, site-imo. No code/history was deleted and no visibility was changed.
+
+
 Audited 2026-09-19 from fresh clones of all 19 public repositories and all advertised remote branches. Claims below concern inspected code, not adoption or production reliability. No visibility changes or branch deletions are recommended automatically.
 
 ## Decisions and exact changes
