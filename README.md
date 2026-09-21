@@ -1,1 +1,1 @@
-High school student building software at the intersection of mathematics, physics and AI.
+High school student interested in math, physics, and AI.
